@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RESULTAT>
+  <RECHERCHE>
+    <XSLFILE/>
+    <USERPARAM userId="570629926"/>
+    <INFONAME>Qualité de l'eau</INFONAME>
+    <NAME>Qualite_eau</NAME>
+    <REPONSES>
+      <EMPRISEALL>
+        <bottom>5698375.268703343</bottom>
+        <left>645897.4953966812</left>
+        <width>33958.828930170486</width>
+        <height>34093.29094364925</height>
+      </EMPRISEALL>
+      <ALLAPHAJ>6764072@6764077@6764066@6764236@6764244@6764229@6764230@6764243@6764238@6764237@6764274@6764285@6764291@6764280@6764108@6764107@6764109@6764090@6764083@6764308@6764297@6764302@6764313@6764054@6764048@6764060@6764041@6764035@6764205@6764023@6764034@6764273@6764187@6764193@6764319@6764166@6764159@6764153@6764146@6764140@6764172@6764165@6764350@6764337@6764343@6764325@6764331@6764332@6764320@6764206@6764211@6764216@6764175@6764176@6764358@6764352@6764364@6764359@6764173@6764096@6764024@6764200@6764195@6764183@6764184@6764349@6764344@6764101@6764124@6764123@6764135@6764130@6764125@6764025@6764223@6764217@6764272@6764265@6764271@6764270@6764264@6764250@6764256@6764257@6764263@6764373@6764185@6764033@6764379@6764380@6764369@6764186@6764026@6764018@6764017@6764016@6764351@6764032@6764174@6764015@6764194@6764122@6764115@6764114@6764116</ALLAPHAJ>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS DES ILES">PUITS DES ILES</VAL1>
+        <CHAMPGEO>6764072</CHAMPGEO>
+        <CENTER>
+          <CENTERX>655111.2899296177</CENTERX>
+          <CENTERY>5710675.9680475015</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS DES ILES">PUITS DES ILES</VAL1>
+        <CHAMPGEO>6764077</CHAMPGEO>
+        <CENTER>
+          <CENTERX>655877.5680948473</CENTERX>
+          <CENTERY>5714490.15327054</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS DES ILES">PUITS DES ILES</VAL1>
+        <CHAMPGEO>6764066</CHAMPGEO>
+        <CENTER>
+          <CENTERX>653800.5222707279</CENTERX>
+          <CENTERY>5715208.41979674</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS DES PRES">PUITS DES PRES</VAL1>
+        <CHAMPGEO>6764236</CHAMPGEO>
+        <CENTER>
+          <CENTERX>659809.9202728352</CENTERX>
+          <CENTERY>5706577.858593487</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS DES PRES">PUITS DES PRES</VAL1>
+        <CHAMPGEO>6764244</CHAMPGEO>
+        <CENTER>
+          <CENTERX>661152.8304713685</CENTERX>
+          <CENTERY>5708892.931499008</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS DES PRES">PUITS DES PRES</VAL1>
+        <CHAMPGEO>6764229</CHAMPGEO>
+        <CENTER>
+          <CENTERX>661773.8307323612</CENTERX>
+          <CENTERY>5707443.336642324</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS DES PRES">PUITS DES PRES</VAL1>
+        <CHAMPGEO>6764230</CHAMPGEO>
+        <CENTER>
+          <CENTERX>662611.5466174587</CENTERX>
+          <CENTERY>5711561.872411446</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS DES PRES">PUITS DES PRES</VAL1>
+        <CHAMPGEO>6764243</CHAMPGEO>
+        <CENTER>
+          <CENTERX>661797.7059915183</CENTERX>
+          <CENTERY>5711661.492067286</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS DES PRES">PUITS DES PRES</VAL1>
+        <CHAMPGEO>6764238</CHAMPGEO>
+        <CENTER>
+          <CENTERX>661198.6888565432</CENTERX>
+          <CENTERY>5710915.554036209</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS DES PRES">PUITS DES PRES</VAL1>
+        <CHAMPGEO>6764237</CHAMPGEO>
+        <CENTER>
+          <CENTERX>659890.0613259997</CENTERX>
+          <CENTERY>5707404.022221742</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS JOPPET">PUITS JOPPET</VAL1>
+        <CHAMPGEO>6764274</CHAMPGEO>
+        <CENTER>
+          <CENTERX>658549.568528721</CENTERX>
+          <CENTERY>5719854.474128599</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS JOPPET">PUITS JOPPET</VAL1>
+        <CHAMPGEO>6764285</CHAMPGEO>
+        <CENTER>
+          <CENTERX>658120.2643842273</CENTERX>
+          <CENTERY>5716785.404115293</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS JOPPET">PUITS JOPPET</VAL1>
+        <CHAMPGEO>6764291</CHAMPGEO>
+        <CENTER>
+          <CENTERX>660772.3369779054</CENTERX>
+          <CENTERY>5714198.302120623</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS JOPPET">PUITS JOPPET</VAL1>
+        <CHAMPGEO>6764280</CHAMPGEO>
+        <CENTER>
+          <CENTERX>661478.8603296618</CENTERX>
+          <CENTERY>5715744.908451774</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS LACHA">PUITS LACHA</VAL1>
+        <CHAMPGEO>6764108</CHAMPGEO>
+        <CENTER>
+          <CENTERX>664325.9434013672</CENTERX>
+          <CENTERY>5721252.710883172</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS LACHA">PUITS LACHA</VAL1>
+        <CHAMPGEO>6764107</CHAMPGEO>
+        <CENTER>
+          <CENTERX>663714.3264951634</CENTERX>
+          <CENTERY>5721763.7008090485</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS LACHA">PUITS LACHA</VAL1>
+        <CHAMPGEO>6764109</CHAMPGEO>
+        <CENTER>
+          <CENTERX>666193.4613830289</CENTERX>
+          <CENTERY>5724917.685841737</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS LACHAT">PUITS LACHAT</VAL1>
+        <CHAMPGEO>6764090</CHAMPGEO>
+        <CENTER>
+          <CENTERX>665409.6202332131</CENTERX>
+          <CENTERY>5706550.859114936</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS LACHAT">PUITS LACHAT</VAL1>
+        <CHAMPGEO>6764083</CHAMPGEO>
+        <CENTER>
+          <CENTERX>666299.2771216617</CENTERX>
+          <CENTERY>5705402.912260275</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS PASTEUR">PUITS PASTEUR</VAL1>
+        <CHAMPGEO>6764308</CHAMPGEO>
+        <CENTER>
+          <CENTERX>656273.0810188198</CENTERX>
+          <CENTERY>5710341.350999252</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS PASTEUR">PUITS PASTEUR</VAL1>
+        <CHAMPGEO>6764297</CHAMPGEO>
+        <CENTER>
+          <CENTERX>662853.3638492854</CENTERX>
+          <CENTERY>5705940.097700175</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS PASTEUR">PUITS PASTEUR</VAL1>
+        <CHAMPGEO>6764302</CHAMPGEO>
+        <CENTER>
+          <CENTERX>658681.6001323097</CENTERX>
+          <CENTERY>5708850.993719803</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS PASTEUR">PUITS PASTEUR</VAL1>
+        <CHAMPGEO>6764313</CHAMPGEO>
+        <CENTER>
+          <CENTERX>658965.4226083722</CENTERX>
+          <CENTERY>5710609.9992263615</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS SAINT JEAN DE LA PORTE">PUITS SAINT JEAN DE LA PORTE</VAL1>
+        <CHAMPGEO>6764054</CHAMPGEO>
+        <CENTER>
+          <CENTERX>661494.2061905346</CENTERX>
+          <CENTERY>5712377.029045024</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS SAINT JEAN DE LA PORTE">PUITS SAINT JEAN DE LA PORTE</VAL1>
+        <CHAMPGEO>6764048</CHAMPGEO>
+        <CENTER>
+          <CENTERX>660636.767810062</CENTERX>
+          <CENTERY>5712242.759410435</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS SAINT JEAN DE LA PORTE">PUITS SAINT JEAN DE LA PORTE</VAL1>
+        <CHAMPGEO>6764060</CHAMPGEO>
+        <CENTER>
+          <CENTERX>665179.016276009</CENTERX>
+          <CENTERY>5710902.296176531</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS SAINT JEAN DE LA PORTE">PUITS SAINT JEAN DE LA PORTE</VAL1>
+        <CHAMPGEO>6764041</CHAMPGEO>
+        <CENTER>
+          <CENTERX>663732.6481389104</CENTERX>
+          <CENTERY>5709796.919413375</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="PUITS SAINT JEAN DE LA PORTE">PUITS SAINT JEAN DE LA PORTE</VAL1>
+        <CHAMPGEO>6764035</CHAMPGEO>
+        <CENTER>
+          <CENTERX>663451.7572562625</CENTERX>
+          <CENTERY>5714007.503334487</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE COMBE NOIRE">SOURCE COMBE NOIRE</VAL1>
+        <CHAMPGEO>6764205</CHAMPGEO>
+        <CENTER>
+          <CENTERX>675136.3795203271</CENTERX>
+          <CENTERY>5707639.91964647</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE COMBE-NOIRE">SOURCE COMBE-NOIRE</VAL1>
+        <CHAMPGEO>6764023</CHAMPGEO>
+        <CENTER>
+          <CENTERX>673244.5935126179</CENTERX>
+          <CENTERY>5706828.300469083</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE DE FASSEMAN">SOURCE DE FASSEMAN</VAL1>
+        <CHAMPGEO>6764034</CHAMPGEO>
+        <CENTER>
+          <CENTERX>676572.3700945983</CENTERX>
+          <CENTERY>5707838.140493971</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE DE GRANDE MONTAGNE">SOURCE DE GRANDE MONTAGNE</VAL1>
+        <CHAMPGEO>6764273</CHAMPGEO>
+        <CENTER>
+          <CENTERX>661842.3273459815</CENTERX>
+          <CENTERY>5705326.115924312</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE DE GRANDE MONTAGNE">SOURCE DE GRANDE MONTAGNE</VAL1>
+        <CHAMPGEO>6764187</CHAMPGEO>
+        <CENTER>
+          <CENTERX>660717.5228426876</CENTERX>
+          <CENTERY>5704251.707477314</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE DE GRANDE MONTAGNE">SOURCE DE GRANDE MONTAGNE</VAL1>
+        <CHAMPGEO>6764193</CHAMPGEO>
+        <CENTER>
+          <CENTERX>659872.3789487175</CENTERX>
+          <CENTERY>5703499.0259462865</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE DOMANIALE 2">SOURCE DOMANIALE 2</VAL1>
+        <CHAMPGEO>6764319</CHAMPGEO>
+        <CENTER>
+          <CENTERX>657660.3549076314</CENTERX>
+          <CENTERY>5704048.486012239</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE FONTAINE NOIRE">SOURCE FONTAINE NOIRE</VAL1>
+        <CHAMPGEO>6764166</CHAMPGEO>
+        <CENTER>
+          <CENTERX>667639.71778771</CENTERX>
+          <CENTERY>5713387.702517652</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE FONTAINE NOIRE">SOURCE FONTAINE NOIRE</VAL1>
+        <CHAMPGEO>6764159</CHAMPGEO>
+        <CENTER>
+          <CENTERX>669265.1690218222</CENTERX>
+          <CENTERY>5713574.306812769</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE FONTAINE NOIRE">SOURCE FONTAINE NOIRE</VAL1>
+        <CHAMPGEO>6764153</CHAMPGEO>
+        <CENTER>
+          <CENTERX>665047.8127652721</CENTERX>
+          <CENTERY>5714944.764118423</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE FONTAINE NOIRE">SOURCE FONTAINE NOIRE</VAL1>
+        <CHAMPGEO>6764146</CHAMPGEO>
+        <CENTER>
+          <CENTERX>668096.8668512931</CENTERX>
+          <CENTERY>5714857.182916248</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE FONTAINE NOIRE">SOURCE FONTAINE NOIRE</VAL1>
+        <CHAMPGEO>6764140</CHAMPGEO>
+        <CENTER>
+          <CENTERX>670161.9519388139</CENTERX>
+          <CENTERY>5715326.6000825185</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE FONTAINE NOIRE">SOURCE FONTAINE NOIRE</VAL1>
+        <CHAMPGEO>6764172</CHAMPGEO>
+        <CENTER>
+          <CENTERX>666523.8228388808</CENTERX>
+          <CENTERY>5713406.5609262</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE FONTAINE NOIRE">SOURCE FONTAINE NOIRE</VAL1>
+        <CHAMPGEO>6764165</CHAMPGEO>
+        <CENTER>
+          <CENTERX>669809.7683931628</CENTERX>
+          <CENTERY>5717728.875306906</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LA BOISSERETTE">SOURCE LA BOISSERETTE</VAL1>
+        <CHAMPGEO>6764350</CHAMPGEO>
+        <CENTER>
+          <CENTERX>668584.7186697924</CENTERX>
+          <CENTERY>5707290.610076631</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LA COMBE">SOURCE LA COMBE</VAL1>
+        <CHAMPGEO>6764337</CHAMPGEO>
+        <CENTER>
+          <CENTERX>656793.8042550109</CENTERX>
+          <CENTERY>5708919.444275997</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LA COMBE">SOURCE LA COMBE</VAL1>
+        <CHAMPGEO>6764343</CHAMPGEO>
+        <CENTER>
+          <CENTERX>657135.8804076257</CENTERX>
+          <CENTERY>5709601.280979605</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LA COMBE">SOURCE LA COMBE</VAL1>
+        <CHAMPGEO>6764325</CHAMPGEO>
+        <CENTER>
+          <CENTERX>654423.0067241449</CENTERX>
+          <CENTERY>5706440.635720051</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LA COMBE">SOURCE LA COMBE</VAL1>
+        <CHAMPGEO>6764331</CHAMPGEO>
+        <CENTER>
+          <CENTERX>656613.815325677</CENTERX>
+          <CENTERY>5707852.934416257</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LA COMBE">SOURCE LA COMBE</VAL1>
+        <CHAMPGEO>6764332</CHAMPGEO>
+        <CENTER>
+          <CENTERX>657385.271613215</CENTERX>
+          <CENTERY>5709272.350588287</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LA COMBE">SOURCE LA COMBE</VAL1>
+        <CHAMPGEO>6764320</CHAMPGEO>
+        <CENTER>
+          <CENTERX>655384.236120935</CENTERX>
+          <CENTERY>5708298.916273712</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LA DHUY">SOURCE LA DHUY</VAL1>
+        <CHAMPGEO>6764206</CHAMPGEO>
+        <CENTER>
+          <CENTERX>651633.7744977247</CENTERX>
+          <CENTERY>5710695.35357148</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LA DHUY">SOURCE LA DHUY</VAL1>
+        <CHAMPGEO>6764211</CHAMPGEO>
+        <CENTER>
+          <CENTERX>651666.4310214571</CENTERX>
+          <CENTERY>5713197.4012724105</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LA DHUY">SOURCE LA DHUY</VAL1>
+        <CHAMPGEO>6764216</CHAMPGEO>
+        <CENTER>
+          <CENTERX>654214.7452159341</CENTERX>
+          <CENTERY>5711330.6241840655</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LA FOUGERE">SOURCE LA FOUGERE</VAL1>
+        <CHAMPGEO>6764175</CHAMPGEO>
+        <CENTER>
+          <CENTERX>671299.1780996779</CENTERX>
+          <CENTERY>5718292.336733363</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LA ROCHE ST ALBAN">SOURCE LA ROCHE ST ALBAN</VAL1>
+        <CHAMPGEO>6764176</CHAMPGEO>
+        <CENTER>
+          <CENTERX>652586.9904009836</CENTERX>
+          <CENTERY>5722564.716551676</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LE LARD">SOURCE LE LARD</VAL1>
+        <CHAMPGEO>6764358</CHAMPGEO>
+        <CENTER>
+          <CENTERX>653577.2523145287</CENTERX>
+          <CENTERY>5709974.290914104</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LE LARD">SOURCE LE LARD</VAL1>
+        <CHAMPGEO>6764352</CHAMPGEO>
+        <CENTER>
+          <CENTERX>652449.8813021844</CENTERX>
+          <CENTERY>5707729.169174845</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LE LARD">SOURCE LE LARD</VAL1>
+        <CHAMPGEO>6764364</CHAMPGEO>
+        <CENTER>
+          <CENTERX>655420.3321052988</CENTERX>
+          <CENTERY>5709015.352322822</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LE LARD">SOURCE LE LARD</VAL1>
+        <CHAMPGEO>6764359</CHAMPGEO>
+        <CENTER>
+          <CENTERX>651786.7804329959</CENTERX>
+          <CENTERY>5704424.639551459</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LE MONT">SOURCE LE MONT</VAL1>
+        <CHAMPGEO>6764173</CHAMPGEO>
+        <CENTER>
+          <CENTERX>674359.189864088</CENTERX>
+          <CENTERY>5704427.473886139</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LES CREUX">SOURCE LES CREUX</VAL1>
+        <CHAMPGEO>6764096</CHAMPGEO>
+        <CENTER>
+          <CENTERX>652993.8901854835</CENTERX>
+          <CENTERY>5719634.492330964</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LES CREUX">SOURCE LES CREUX</VAL1>
+        <CHAMPGEO>6764024</CHAMPGEO>
+        <CENTER>
+          <CENTERX>652285.4459886919</CENTERX>
+          <CENTERY>5715979.181488712</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LES FEES">SOURCE LES FEES</VAL1>
+        <CHAMPGEO>6764200</CHAMPGEO>
+        <CENTER>
+          <CENTERX>650526.2449048039</CENTERX>
+          <CENTERY>5714506.162167031</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LES FEES">SOURCE LES FEES</VAL1>
+        <CHAMPGEO>6764195</CHAMPGEO>
+        <CENTER>
+          <CENTERX>649353.7150095775</CENTERX>
+          <CENTERY>5712504.965169166</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LES FONTAINES">SOURCE LES FONTAINES</VAL1>
+        <CHAMPGEO>6764183</CHAMPGEO>
+        <CENTER>
+          <CENTERX>662116.089223559</CENTERX>
+          <CENTERY>5717318.365366908</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LES FONTAINES">SOURCE LES FONTAINES</VAL1>
+        <CHAMPGEO>6764184</CHAMPGEO>
+        <CENTER>
+          <CENTERX>662239.5409611628</CENTERX>
+          <CENTERY>5716409.057137779</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LES HUIRES">SOURCE LES HUIRES</VAL1>
+        <CHAMPGEO>6764349</CHAMPGEO>
+        <CENTER>
+          <CENTERX>656973.6551366101</CENTERX>
+          <CENTERY>5706884.965752815</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LES HUIRES">SOURCE LES HUIRES</VAL1>
+        <CHAMPGEO>6764344</CHAMPGEO>
+        <CENTER>
+          <CENTERX>656006.9051514328</CENTERX>
+          <CENTERY>5706290.195285666</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LES TROIS MURGIERS">SOURCE LES TROIS MURGIERS</VAL1>
+        <CHAMPGEO>6764101</CHAMPGEO>
+        <CENTER>
+          <CENTERX>650471.3442033496</CENTERX>
+          <CENTERY>5717966.371065571</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LOVETTAZ">SOURCE LOVETTAZ</VAL1>
+        <CHAMPGEO>6764124</CHAMPGEO>
+        <CENTER>
+          <CENTERX>664759.5869333372</CENTERX>
+          <CENTERY>5715446.418401643</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE LOVETTAZ">SOURCE LOVETTAZ</VAL1>
+        <CHAMPGEO>6764123</CHAMPGEO>
+        <CENTER>
+          <CENTERX>664727.3547877402</CENTERX>
+          <CENTERY>5715850.598119622</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE MARGERIAZ">SOURCE MARGERIAZ</VAL1>
+        <CHAMPGEO>6764135</CHAMPGEO>
+        <CENTER>
+          <CENTERX>666884.0292820041</CENTERX>
+          <CENTERY>5719315.861573181</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE MARGERIAZ">SOURCE MARGERIAZ</VAL1>
+        <CHAMPGEO>6764130</CHAMPGEO>
+        <CENTER>
+          <CENTERX>669061.0452217942</CENTERX>
+          <CENTERY>5717607.983725406</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE MARGERIAZ">SOURCE MARGERIAZ</VAL1>
+        <CHAMPGEO>6764125</CHAMPGEO>
+        <CENTER>
+          <CENTERX>669714.5901321742</CENTERX>
+          <CENTERY>5718912.572230778</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE MONTGELAS">SOURCE MONTGELAS</VAL1>
+        <CHAMPGEO>6764025</CHAMPGEO>
+        <CENTER>
+          <CENTERX>670311.9922121842</CENTERX>
+          <CENTERY>5707921.012336383</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE PRE BARDIN">SOURCE PRE BARDIN</VAL1>
+        <CHAMPGEO>6764223</CHAMPGEO>
+        <CENTER>
+          <CENTERX>669854.946245692</CENTERX>
+          <CENTERY>5720644.913692538</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE PRE BARDIN">SOURCE PRE BARDIN</VAL1>
+        <CHAMPGEO>6764217</CHAMPGEO>
+        <CENTER>
+          <CENTERX>671567.3734733887</CENTERX>
+          <CENTERY>5720850.921032915</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE PRE DOLLIN">SOURCE PRE DOLLIN</VAL1>
+        <CHAMPGEO>6764272</CHAMPGEO>
+        <CENTER>
+          <CENTERX>671449.6090630296</CENTERX>
+          <CENTERY>5716745.935494256</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE PREVENTORIUM">SOURCE PREVENTORIUM</VAL1>
+        <CHAMPGEO>6764265</CHAMPGEO>
+        <CENTER>
+          <CENTERX>665101.6285075049</CENTERX>
+          <CENTERY>5712796.935451923</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE PREVENTORIUM">SOURCE PREVENTORIUM</VAL1>
+        <CHAMPGEO>6764271</CHAMPGEO>
+        <CENTER>
+          <CENTERX>665145.7037357391</CENTERX>
+          <CENTERY>5712004.667047261</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE PREVENTORIUM">SOURCE PREVENTORIUM</VAL1>
+        <CHAMPGEO>6764270</CHAMPGEO>
+        <CENTER>
+          <CENTERX>664664.8123128603</CENTERX>
+          <CENTERY>5712409.469289809</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE PREVENTORIUM">SOURCE PREVENTORIUM</VAL1>
+        <CHAMPGEO>6764264</CHAMPGEO>
+        <CENTER>
+          <CENTERX>665565.6874862234</CENTERX>
+          <CENTERY>5713624.945849226</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE SAINT SATURNIN">SOURCE SAINT SATURNIN</VAL1>
+        <CHAMPGEO>6764250</CHAMPGEO>
+        <CENTER>
+          <CENTERX>660145.0559171933</CENTERX>
+          <CENTERY>5717217.849883345</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE SAINT SATURNIN">SOURCE SAINT SATURNIN</VAL1>
+        <CHAMPGEO>6764256</CHAMPGEO>
+        <CENTER>
+          <CENTERX>660760.3080719962</CENTERX>
+          <CENTERY>5717214.147002964</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE SAINT SATURNIN">SOURCE SAINT SATURNIN</VAL1>
+        <CHAMPGEO>6764257</CHAMPGEO>
+        <CENTER>
+          <CENTERX>659068.594598974</CENTERX>
+          <CENTERY>5714812.456990883</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE SAINT SATURNIN">SOURCE SAINT SATURNIN</VAL1>
+        <CHAMPGEO>6764263</CHAMPGEO>
+        <CENTER>
+          <CENTERX>660062.8246649007</CENTERX>
+          <CENTERY>5715126.848487538</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES ENSEMBLE 1 (B,C,X)">SOURCES ENSEMBLE 1 (B,C,X)</VAL1>
+        <CHAMPGEO>6764373</CHAMPGEO>
+        <CENTER>
+          <CENTERX>658171.9057139187</CENTERX>
+          <CENTERY>5706107.895496349</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES ENSEMBLE 1 (B,C,X)">SOURCES ENSEMBLE 1 (B,C,X)</VAL1>
+        <CHAMPGEO>6764185</CHAMPGEO>
+        <CENTER>
+          <CENTERX>659623.5903286451</CENTERX>
+          <CENTERY>5704828.362932875</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES ENSEMBLE 1 (B,C,X)">SOURCES ENSEMBLE 1 (B,C,X)</VAL1>
+        <CHAMPGEO>6764033</CHAMPGEO>
+        <CENTER>
+          <CENTERX>658165.1968118038</CENTERX>
+          <CENTERY>5702169.044545919</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES ENSEMBLE 1 (B,C,X)">SOURCES ENSEMBLE 1 (B,C,X)</VAL1>
+        <CHAMPGEO>6764379</CHAMPGEO>
+        <CENTER>
+          <CENTERX>657869.4116245985</CENTERX>
+          <CENTERY>5708585.74662285</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES ENSEMBLE 1 (B,C,X)">SOURCES ENSEMBLE 1 (B,C,X)</VAL1>
+        <CHAMPGEO>6764380</CHAMPGEO>
+        <CENTER>
+          <CENTERX>657189.7779556743</CENTERX>
+          <CENTERY>5708473.574650342</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES ENSEMBLE 1 (B,C,X)">SOURCES ENSEMBLE 1 (B,C,X)</VAL1>
+        <CHAMPGEO>6764369</CHAMPGEO>
+        <CENTER>
+          <CENTERX>656880.3361003991</CENTERX>
+          <CENTERY>5705398.321297933</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES LA CROIX / LA SAVATINE">SOURCES LA CROIX / LA SAVATINE</VAL1>
+        <CHAMPGEO>6764186</CHAMPGEO>
+        <CENTER>
+          <CENTERX>662078.3598132121</CENTERX>
+          <CENTERY>5719145.989690366</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES LE NOYER / LES CARRES / LES ROSSES">SOURCES LE NOYER / LES CARRES / LES ROSSES</VAL1>
+        <CHAMPGEO>6764026</CHAMPGEO>
+        <CENTER>
+          <CENTERX>669460.2007498309</CENTERX>
+          <CENTERY>5724253.821964165</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES MARLES RAVENETS">SOURCES MARLES RAVENETS</VAL1>
+        <CHAMPGEO>6764018</CHAMPGEO>
+        <CENTER>
+          <CENTERX>666027.6186423452</CENTERX>
+          <CENTERY>5711806.859865798</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES MARLES RAVENETS">SOURCES MARLES RAVENETS</VAL1>
+        <CHAMPGEO>6764017</CHAMPGEO>
+        <CENTER>
+          <CENTERX>666304.3120354757</CENTERX>
+          <CENTERY>5710690.018124552</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES MARLES RAVENETS">SOURCES MARLES RAVENETS</VAL1>
+        <CHAMPGEO>6764016</CHAMPGEO>
+        <CENTER>
+          <CENTERX>666674.3949173366</CENTERX>
+          <CENTERY>5712628.120491707</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES MARLES RAVENETS">SOURCES MARLES RAVENETS</VAL1>
+        <CHAMPGEO>6764351</CHAMPGEO>
+        <CENTER>
+          <CENTERX>671651.2145791635</CENTERX>
+          <CENTERY>5714367.93850403</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES MARLES RAVENETS">SOURCES MARLES RAVENETS</VAL1>
+        <CHAMPGEO>6764032</CHAMPGEO>
+        <CENTER>
+          <CENTERX>669175.916748724</CENTERX>
+          <CENTERY>5710499.903976918</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES MARLES RAVENETS">SOURCES MARLES RAVENETS</VAL1>
+        <CHAMPGEO>6764174</CHAMPGEO>
+        <CENTER>
+          <CENTERX>671638.0082763637</CENTERX>
+          <CENTERY>5711617.010394286</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES MARLES RAVENETS">SOURCES MARLES RAVENETS</VAL1>
+        <CHAMPGEO>6764015</CHAMPGEO>
+        <CENTER>
+          <CENTERX>665610.2010658962</CENTERX>
+          <CENTERY>5713019.231642394</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCES PIERRE ROUGE / ST MARTIN">SOURCES PIERRE ROUGE / ST MARTIN</VAL1>
+        <CHAMPGEO>6764194</CHAMPGEO>
+        <CENTER>
+          <CENTERX>650532.2604688326</CENTERX>
+          <CENTERY>5705222.330128683</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE TRIVIERS (ST JEAN DE LA PORTE)">SOURCE TRIVIERS (ST JEAN DE LA PORTE)</VAL1>
+        <CHAMPGEO>6764122</CHAMPGEO>
+        <CENTER>
+          <CENTERX>665972.5490966156</CENTERX>
+          <CENTERY>5710345.1447250815</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE TRIVIERS (ST JEAN DE LA PORTE)">SOURCE TRIVIERS (ST JEAN DE LA PORTE)</VAL1>
+        <CHAMPGEO>6764115</CHAMPGEO>
+        <CENTER>
+          <CENTERX>667633.2252005873</CENTERX>
+          <CENTERY>5709730.227154025</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE TRIVIERS (ST JEAN DE LA PORTE)">SOURCE TRIVIERS (ST JEAN DE LA PORTE)</VAL1>
+        <CHAMPGEO>6764114</CHAMPGEO>
+        <CENTER>
+          <CENTERX>664630.2306972983</CENTERX>
+          <CENTERY>5708630.075983109</CENTERY>
+        </CENTER>
+      </ITEM>
+      <ITEM>
+        <NAME>Qualite_eau</NAME>
+        <CHAMP1>zone alimentée par</CHAMP1>
+        <VAL1 display="SOURCE TRIVIERS (ST JEAN DE LA PORTE)">SOURCE TRIVIERS (ST JEAN DE LA PORTE)</VAL1>
+        <CHAMPGEO>6764116</CHAMPGEO>
+        <CENTER>
+          <CENTERX>666281.7053528858</CENTERX>
+          <CENTERY>5709072.1751026735</CENTERY>
+        </CENTER>
+      </ITEM>
+    </REPONSES>
+  </RECHERCHE>
+</RESULTAT>
